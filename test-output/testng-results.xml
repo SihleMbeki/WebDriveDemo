@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="473" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:54 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="473" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:54 CAT">
+      <class name="testcases.TestBase">
+        <test-method status="PASS" signature="setReport()[pri:0, instance:testcases.TestBase@3b0143d3]" name="setReport" is-config="true" duration-ms="127" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:53 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:testcases.TestBase@3b0143d3]" name="doLogin" duration-ms="10" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:53 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doRegister()[pri:0, instance:testcases.TestBase@3b0143d3]" name="doRegister" duration-ms="1" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:53 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:testcases.TestBase@3b0143d3]" name="endReport" is-config="true" duration-ms="305" started-at="2020-02-04T07:52:53 CAT" finished-at="2020-02-04T07:52:54 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
